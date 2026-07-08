@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&center=true&vCenter=true&width=900&color=7AA2F7&lines=Aspiring+Software+Engineer;AI+%7C+Web3+%7C+Backend+Developer;Building+Agentic+AI+Systems;Hackathon+Winner;Developer+Advocate;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&center=true&vCenter=true&width=900&color=7AA2F7&lines=Aspiring+Software+Engineer;AI+%7C+Web3+%7C+MERN+Developer;Building+Agentic+AI+Systems;Hackathon+Winner;Developer+Advocacy;Community Builder" />
 
 </p>
 
