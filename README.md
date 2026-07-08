@@ -1,6 +1,6 @@
 <div align="center">
 
-#Hi, I'm Anshul 👋
+###Hi, I'm Anshul 👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Building+Autonomous+AI+Agents;Shipping+Web3+Systems;Community+Builder+%7C+Hackathon+Winner" alt="Typing SVG" />
