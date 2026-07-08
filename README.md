@@ -9,11 +9,8 @@
   />
 </a>
 
-
-
 </div>
 
-<br/>
 
 ## About
 <sub>B.Tech CSE (AI & ML) · JSS University Noida · 2028</sub>
