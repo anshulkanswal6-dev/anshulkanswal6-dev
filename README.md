@@ -29,10 +29,15 @@ Outside of engineering, I run and grow developer communities, coordinate hackath
 ## Stack
 
 **Languages** — C, C++, Python, JavaScript, TypeScript, Solidity
+
 **Frontend** — React, Tailwind CSS, Vite
+
 **Backend** — Node.js, Express, FastAPI
+
 **Databases** — MySQL, MongoDB, Supabase
+
 **Web3** — Ethereum, Monad, Algorand, BNB Chain, Educhain, Ethers.js, IPFS
+
 **Tools** — Git, Figma, Postman, Notion
 
 ---
