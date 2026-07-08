@@ -60,14 +60,23 @@ Outside of engineering, I run and grow developer communities, coordinate hackath
 | | |
 |---|---|
 | Data Analytics Intern | AIHI Fusion Technologies × JSS University |
-| Developer Advocate | HackQuest |
-| Community Lead | Builder Base (700 → 3,500+ members) |
-| North India Region Coordinator | IIT Bombay Techfest — North India |
+
+| North India Region Coordinator | IIT Bombay Techfest |
 | 🏆 Winner | CDAC Noida Hackathon |
 | 🥈 Runner-Up | EduChain Delhi Regionals |
 | 🏅 Winner | HackQuest Co-Learning Camp 16 |
 
 ---
+
+## Volunteering
+
+| | |
+|---|---|
+| Core Member | Competitive Programming Cell (CPC) |
+| Chief Mischief Officer | Builder Base |
+| Lead Organizer | SynergiX |
+| Organizing team | HQ Unitour- Delhi University |
+
 
 <div align="center">
 
