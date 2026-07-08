@@ -2,8 +2,11 @@
 
 # Hi, I'm Anshul 👋
 
-<a align="left" href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Building+Autonomous+AI+Agents;Shipping+Web3+Systems;Community+Builder+%7C+Hackathon+Winner" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1000&color=39FF14&width=900&lines=Building+Autonomous+AI+Agents;Shipping+Web3+Systems;Community+Builder+%7C+Hackathon+Winner"
+    alt="Typing SVG"
+  />
 </a>
 
 
