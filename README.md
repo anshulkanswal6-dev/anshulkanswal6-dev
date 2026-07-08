@@ -57,9 +57,10 @@ Outside of engineering, I run and grow developer communities, coordinate hackath
 
 ## Experience & Achievements
 
-| | |
+| Role | Organization |
 |---|---|
 | Data Analytics Intern | AIHI Fusion Technologies × JSS University |
+| Developer Advocate | Hackquest.io |
 | North India Region Coordinator | IIT Bombay Techfest |
 | 🏆 Winner | CDAC Noida Hackathon |
 | 🥈 Runner-Up | EduChain Delhi Regionals |
@@ -69,7 +70,7 @@ Outside of engineering, I run and grow developer communities, coordinate hackath
 
 ## Volunteering
 
-| | |
+| Role | Organization |
 |---|---|
 | Core Member | Competitive Programming Cell (CPC) |
 | Chief Mischief Officer | Builder Base |
