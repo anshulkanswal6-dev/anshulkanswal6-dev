@@ -45,10 +45,10 @@ Outside of engineering, I run and grow developer communities, coordinate hackath
 ## Projects
 
 **AEGIS** — AI-powered platform that turns natural language prompts into autonomous on-chain agents. Handles agent orchestration, wallet integration, and transaction execution on the Monad testnet.
-`Python` `web3.py` `FastAPI` `Solidity`
+`Python` `web3.py` `FastAPI` `Solidity` `React.js` `Tailwind CSS` 
 
 **Twin** — MCP-powered agentic finance layer connecting AI agents (Claude, Cursor) to on-chain financial operations. Agent Wallets, AI Sessions, and a ticket-based orchestration engine — built to preserve user custody while automating payments and wallet analysis.
-`MCP` `Ethers.js` `Ethereum` `Node.js` `FastAPI` 
+`MCP` `Ethers.js` `Ethereum` `Node.js` `FastAPI` `React.js` `Tailwind CSS` 
 
 **MineFind** — Cryptojacking detection platform that flags unauthorized mining activity through behavioral analysis.
 `Python` `yara` `nmap` `psutil` `React.js` `electron` 
