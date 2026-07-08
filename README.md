@@ -6,13 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Building+Autonomous+AI+Agents;Shipping+Web3+Systems;Community+Builder+%7C+Hackathon+Winner" alt="Typing SVG" />
 </a>
 
-<sub>B.Tech CSE (AI & ML) · JSS University Noida · 2028</sub>
+
 
 </div>
 
 <br/>
 
 ## About
+<sub>B.Tech CSE (AI & ML) · JSS University Noida · 2028</sub>
 
 I build backend systems, AI agents, and Web3 infrastructure. My focus is production-ready software — code that scales, stays maintainable, and solves real problems rather than chasing trends.
 
