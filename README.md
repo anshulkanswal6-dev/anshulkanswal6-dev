@@ -15,15 +15,7 @@
 
 </p>
 
-<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=anshulkanswal6-dev&label=Profile+Views&color=7aa2f7&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/anshulkanswal6-dev?logo=github&style=for-the-badge&color=7aa2f7"/>
-
-<img src="https://img.shields.io/github/stars/anshulkanswal6-dev?affiliations=OWNER&style=for-the-badge&color=bb9af7"/>
-
-</p>
 
 ---
 
