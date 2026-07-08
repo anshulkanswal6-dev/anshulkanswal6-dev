@@ -60,7 +60,6 @@ Outside of engineering, I run and grow developer communities, coordinate hackath
 | | |
 |---|---|
 | Data Analytics Intern | AIHI Fusion Technologies × JSS University |
-
 | North India Region Coordinator | IIT Bombay Techfest |
 | 🏆 Winner | CDAC Noida Hackathon |
 | 🥈 Runner-Up | EduChain Delhi Regionals |
